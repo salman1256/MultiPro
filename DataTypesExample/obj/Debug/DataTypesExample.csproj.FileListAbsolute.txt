@@ -1,0 +1,8 @@
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\bin\Debug\DataTypesExample.exe.config
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\bin\Debug\DataTypesExample.exe
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\bin\Debug\DataTypesExample.pdb
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\obj\Debug\DataTypesExample.csproj.AssemblyReference.cache
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\obj\Debug\DataTypesExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\obj\Debug\DataTypesExample.csproj.CoreCompileInputs.cache
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\obj\Debug\DataTypesExample.exe
+C:\Users\salma\OneDrive\Desktop\Day1\DataTypesExample\obj\Debug\DataTypesExample.pdb
